@@ -1,2 +1,3 @@
 # project-one-tictactoe
-A python based cmd line game for tic-tac-toe
+This code was created in a day as part of the capstone project for Codecademys 'CS101: Introduction to Programming'
+You can read about my learnings of doing this project on medium.
