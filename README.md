@@ -1,5 +1,5 @@
 # project-one-tictactoe
-This code was created as part of the capstone project for Codecademys 'CS101: Introduction to Programming'
+This code was created as part of the capstone project for Codecademys 'CS101: Introduction to Programming'. 
 You can read about my learnings of doing this project on medium.
 The objective was to create: 
 - A two player game with text inputs 
