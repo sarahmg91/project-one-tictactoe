@@ -184,12 +184,12 @@ print("""Thank you! You are now referred to as Player """ + player1 +
 and your opponent will be Player """ + player2)
 current_player = player1
 
-while final_winner == False and play_count < 9:
+while play_count < 9  and not final_winner :
     question = "PLAYER " + current_player + " please select an empty box, 1 - 9 : "
     choice = input(question)
     int_choice = int(choice)
 
-    while check_allowable_play(int_choice) == False:
+    while not check_allowable_play(int_choice) :
         print('Invalid choice')
         choice = input(question)
         int_choice = int(choice)
